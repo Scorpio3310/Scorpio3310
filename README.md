@@ -20,7 +20,7 @@ My name is Nik Klemenc and I am a self-taught creative UX/UI designer and Front-
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" align="left" alt="Vercel" width="26px"  style="padding-right:10px;" />](https://vercel.com/)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" align="left" alt="Cloudflare" width="26px"  style="padding-right:10px;" />](https://cloudflare.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" align="left" alt="Cloudflare" width="26px"  style="padding-right:10px;" />](https://cloudflare.com/)
 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  align="left" alt="VS Code" width="26px"  style="padding-right:10px;" />
 
