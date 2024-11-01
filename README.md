@@ -30,7 +30,7 @@ My name is Nik Klemenc and I am a self-taught creative UX/UI designer and Front-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  align="left" alt="VS Code" width="26px"  style="padding-right:10px;" />
 
-<img align="left" alt="PHP" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  style="padding-right:10px;" />
+[<img align="left" alt="PHP" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  style="padding-right:10px;" />](https://www.php.net)
 
 <br />
 <br />
